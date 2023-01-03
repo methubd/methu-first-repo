@@ -66,3 +66,6 @@ footer{
     font-size: small;    
     font-weight: 400;
 }
+ul li, ol{
+    color: rgb(130, 130, 130);
+}
