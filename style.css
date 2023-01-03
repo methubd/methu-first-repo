@@ -1,0 +1,29 @@
+#title-head{
+    background-color: rgb(223, 223, 223);
+    padding: 50px;
+    text-align: center;
+    background-image: url('header-photo.jpg');
+    background-blend-mode: multiply;
+    background-size: cover;
+    border-radius: 30px;
+    position: sticky;
+}
+
+#profile-photo{
+    border: 10px;
+    width: 480px;
+    background-color: rgb(254, 118, 118);
+    border-radius: 20px;
+    border-image-width: 200px;
+    float: right;
+    margin: 10px;
+
+}
+#sub-heading{
+    width: 600px;
+    background-color: rgb(230, 230, 230);
+    padding: 50px;
+    border-radius: 30px;
+    margin: 10px;
+
+}
