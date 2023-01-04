@@ -2,7 +2,7 @@
     background-color: rgb(223, 223, 223);
     padding: 50px;
     text-align: center;
-    background-image: url('header-photo.jpg');
+    background-image: url('images/header-photo.jpg');
     background-blend-mode: multiply;
     background-size: cover;
     /* border-radius: 30px; */
